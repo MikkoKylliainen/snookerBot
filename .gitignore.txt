@@ -1,2 +1,2 @@
-snookerBot_test.php
-snooker_schedule.txt
+./snookerBot_test.php
+./snooker_schedule.txt
