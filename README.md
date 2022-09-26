@@ -1,1 +1,1 @@
-# snookerBot
+# Snookery McSnookerbot
